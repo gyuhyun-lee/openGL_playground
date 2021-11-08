@@ -13,3 +13,4 @@ As this was just a playground, I did not use any of the fancy build systems. So 
 - GUI to switch between different shaders/lights/textures
 
 # Samples
+![Sample1](https://github.com/meka-lopo/openGL_playground/blob/88e9961d303b9ba26da3f66053a9c4a4d8170ed4/misc/s1.png)
